@@ -6,7 +6,7 @@ import { tsConstructorType } from '@babel/types';
 class Char extends React.Component {
   constructor(props){
     super(props);
-    this.handler = this.handler.bind(this);
+    //this.handler = this.handler.bind(this);
   }
   render() {
     return (
