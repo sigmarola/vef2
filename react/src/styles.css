@@ -1,0 +1,10 @@
+.segment.ui {
+    padding : 0px;
+}
+.ui.menu{
+    border: 0px;
+    box-shadow: none;
+}
+.ui.tabular.menu .item {
+    border-bottom: 1px solid transparent;
+}
